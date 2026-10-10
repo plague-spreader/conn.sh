@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Telnet
+Exec=telnet.sh %u
+NoDisplay=true
+StartupNotify=true
+MimeType=x-scheme-handler/telnet;
+Type=Application

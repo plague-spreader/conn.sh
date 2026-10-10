@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Ssh
+Exec=ssh %u
+NoDisplay=true
+StartupNotify=true
+MimeType=x-scheme-handler/ssh;
+Type=Application
