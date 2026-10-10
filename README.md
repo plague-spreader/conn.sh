@@ -21,7 +21,7 @@ script (or use the default ones if available).
 
 ## How to set-up a URL-handler script
 
-* Create your `.desktop` entry, more info [here](wiki.archlinux.org/title/Desktop_entries)
+* Create your `.desktop` entry, more info [here](https://wiki.archlinux.org/title/Desktop_entries)
 * Associate your scheme handler with `xdg-settings`
 
 Some scheme handlers are provided in the `scheme-handlers` folder; for using
